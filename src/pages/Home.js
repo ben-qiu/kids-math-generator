@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { Card, Row, Col, ListGroup } from 'react-bootstrap'
+import { FaPrint } from 'react-icons/fa';
 
 const Home = () => {
   return (
@@ -13,10 +14,10 @@ const Home = () => {
 
             <ListGroup as="ul" horizontal>
               <ListGroup.Item as="li">
-                <Link to="/grade/1/addition">Addition</Link>
+                <Link to="/grade/1/addition">Addition <FaPrint/></Link>
               </ListGroup.Item>
               <ListGroup.Item as="li">
-                <Link to="/grade/1/subtraction">Subtraction</Link>
+                <Link to="/grade/1/subtraction">Subtraction <FaPrint/></Link>
               </ListGroup.Item>
             </ListGroup>
           </Card.Body>
