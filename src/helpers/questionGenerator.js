@@ -14,7 +14,7 @@ const subtractionGenerator = ({year, size}) => {
   const result = []
   _.times(size, () => {
     const a  = randomIntFromInterval(1, 19)
-    const b = randomIntFromInterval(1, a)
+    const b = randomIntFromInterval(1, Math.min(10, a))
     result.push(`${a} - ${b} =`)
   })
   return result
