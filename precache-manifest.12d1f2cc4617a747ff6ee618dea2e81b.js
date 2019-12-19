@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc2f1e65433d77a89f0951c2729e0a48",
+    "revision": "167d20905e0fccfe7961db8a7a5a4f11",
     "url": "/kids-math-generator/index.html"
   },
   {
-    "revision": "de1d9f5430b2f1e6812b",
+    "revision": "c2a239ce790bc18db18a",
     "url": "/kids-math-generator/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "22dcf67d4c76db38da70",
+    "revision": "485058a5f5f23c9f885d",
     "url": "/kids-math-generator/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "de1d9f5430b2f1e6812b",
+    "revision": "c2a239ce790bc18db18a",
     "url": "/kids-math-generator/static/js/2.6f3d8654.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kids-math-generator/static/js/2.6f3d8654.chunk.js.LICENSE"
   },
   {
-    "revision": "22dcf67d4c76db38da70",
-    "url": "/kids-math-generator/static/js/main.1a0ae111.chunk.js"
+    "revision": "485058a5f5f23c9f885d",
+    "url": "/kids-math-generator/static/js/main.18bf0180.chunk.js"
   },
   {
     "revision": "f968b9fd6f7ae551f2ea",
